@@ -1,0 +1,9 @@
+class Oil {
+
+    constructor() {
+      
+    }
+    display(){
+        
+    }
+}
